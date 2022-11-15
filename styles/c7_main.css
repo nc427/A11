@@ -64,6 +64,9 @@ li a{
 	color: white;
 	font-weight: bold;
 }
+.current{
+	color: yellow;
+}
 /* the styles for the section */
 section {
 	width: 525px;
