@@ -64,7 +64,7 @@ li a{
 	color: white;
 	font-weight: bold;
 }
-.current{
+.current li{
 	color: yellow;
 }
 /* the styles for the section */
