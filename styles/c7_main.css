@@ -45,6 +45,25 @@ header img {
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li{
+	float: left;
+}
+li a{
+	display: block;
+	width: 160px;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-decoration: none;
+	background-color: #800000;
+	color: white;
+	font-weight: bold;
+}
 /* the styles for the section */
 section {
 	width: 525px;
