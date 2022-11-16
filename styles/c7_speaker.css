@@ -45,15 +45,15 @@ header img {
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
-ul{
+#nav_menu ul{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
-li{
+#nav_menu li{
 	float: left;
 }
-li a{
+#nav_menu li a{
 	display: block;
 	width: 160px;
 	text-align: center;
