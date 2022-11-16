@@ -164,6 +164,9 @@ aside h3 {
 aside img {
 	padding-bottom: 1em;
 }
+ul.circle{
+	list-style-type: circle;
+}
 
 /* the styles for the footer */
 footer {
