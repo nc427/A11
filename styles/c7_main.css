@@ -65,8 +65,12 @@ li a{
 	font-weight: bold;
 }
 #current{
+}
+
+.current{
 	color: yellow;
 }
+
 /* the styles for the section */
 section {
 	width: 525px;
