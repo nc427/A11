@@ -166,7 +166,7 @@ aside img {
 }
 ul.circle{
 	list-style-type: circle;
-	clear: both;
+	float: left;
 }
 
 /* the styles for the footer */
