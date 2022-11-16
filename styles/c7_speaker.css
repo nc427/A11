@@ -45,15 +45,15 @@ header img {
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
-main #nav_menu ul{
+#nav_menu ul{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
-main #nav_menu li{
+#nav_menu li{
 	float: left;
 }
-main #nav_menu li a{
+#nav_menu li a{
 	display: block;
 	width: 160px;
 	text-align: center;
@@ -64,7 +64,7 @@ main #nav_menu li a{
 	color: white;
 	font-weight: bold;
 }
-main #nav_menu ul{
+#nav_menu ul{
 	list-style: none;
 	position: relative;
 }
@@ -78,21 +78,21 @@ main #nav_menu ul{
 	top: 100%;
 }
 
-main #nav_menu ul ul li{
+#nav_menu ul ul li{
 	float: none;
 }
 
-main #nav_menu ul li:hover > ul {
+#nav_menu ul li:hover > ul {
 	display: block;
 }
 
-main #nav_menu > ul::after{
+#nav_menu > ul::after{
 	content: "";
 	display: block;
 	clear: both;
 }
 
-main #nav_menu.current{
+#nav_menu.current{
 	color: yellow;
 }
 /* the styles for the main content */
