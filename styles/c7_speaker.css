@@ -92,8 +92,7 @@ header img {
 	clear: both;
 }
 
-
-.current{
+#nav_menu.current{
 	color: yellow;
 }
 /* the styles for the main content */
